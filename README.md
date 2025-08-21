@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on** my read me profile**
+- 🔭 I’m currently working on **my read me profile**
 - 🌱 I’m currently learning **html,java,javascript,linux,git and github**
 - 👯 I’m looking to collaborate on **web development**
 - 💬 Ask me about **technology and personal development**
