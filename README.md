@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-<!--
-**maureenngatia3134-ui/maureenngatia3134-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on** my read me profile**
+- 🌱 I’m currently learning **html,java,javascript,linux,git and github**
+- 👯 I’m looking to collaborate on **web development**
+- 💬 Ask me about **technology and personal development**
+- 📫 How to reach me:** maureenngatia3134@gmail.com**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **i love cycling,reading novels and trying out new food**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moh stephanie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foi_wamboh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@_pretty136) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maureenngatia3134@gmail.com) 
 
